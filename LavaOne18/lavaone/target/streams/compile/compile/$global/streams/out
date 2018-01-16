@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/itrjwyss/Documents/gitrepos/Journey18/LavaOne18/lavaone/app/controllers/HomeController.java:7:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Json[0m
+[0m[[0m[31merror[0m] [0m[0m  location: package play.mvc[0m
+[0m[[0m[31merror[0m] [0m[0mimport play.mvc.Json;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/itrjwyss/Documents/gitrepos/Journey18/LavaOne18/lavaone/app/controllers/HomeController.java:35:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Json[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0m        return ok(Json.toJson(result));[0m

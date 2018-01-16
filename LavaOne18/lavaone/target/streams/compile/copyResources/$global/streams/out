@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/itrjwyss/Documents/gitrepos/Journey18/LavaOne18/lavaone/conf/application.conf,/Users/itrjwyss/Documents/gitrepos/Journey18/LavaOne18/lavaone/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/itrjwyss/Documents/gitrepos/Journey18/LavaOne18/lavaone/conf/logback.xml,/Users/itrjwyss/Documents/gitrepos/Journey18/LavaOne18/lavaone/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/itrjwyss/Documents/gitrepos/Journey18/LavaOne18/lavaone/conf/routes,/Users/itrjwyss/Documents/gitrepos/Journey18/LavaOne18/lavaone/target/scala-2.12/classes/routes)[0m
